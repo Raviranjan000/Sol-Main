@@ -1,0 +1,4 @@
+NL-08014: Message 8014 not found; No message file for product=NETWORK, facility=NL	   []
+ NL-08015: Client(OCI) side initialization of Diagnosability framework failed
+  ORA-48172: unable to find a valid ADR base
+Directory does not exist for read/write [E:\app\client\Administrator\product\12.1.0\client_2\log] []
