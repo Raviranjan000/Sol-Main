@@ -43,7 +43,7 @@ box-shadow: 1px 1px 49px -6px rgba(0,0,0,0.24);" alt="1" width="1400">
 
 
 <div style="position:absolute; bottom:-32x; right:0%">
-	<a type="button" href="https://web.sol.du.ac.in" class="btn btn-primary" style="font-weight:bold; color:#FFF; font-size:small;">Continue to website >> </a>
+	<a type="button" href="https://web.sol.du.ac.in" class="btn btn-primary" style="font-weight:bold; color:#FFF; font-size:small;">Continue to website >>>> </a>
 </div>
 </div>
 <?php
